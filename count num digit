@@ -1,0 +1,13 @@
+a=int(input())
+
+count=0
+
+while(a>1):
+ 
+	a=a/100
+ 
+	count=count+2
+
+print("Number of digits: ")
+
+print(count)
