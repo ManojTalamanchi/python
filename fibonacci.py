@@ -1,5 +1,5 @@
 m=int(input(""))
-m1 = 0
+m1 = 1
 m2 = 1
 count = 0
 n=[]
