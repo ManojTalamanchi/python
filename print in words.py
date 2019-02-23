@@ -1,2 +1,2 @@
-num=['one','two','three','four','five','six','seven','eight','nine','ten']
+num=['One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
 print(num[int(input(""))-1])
