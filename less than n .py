@@ -1,6 +1,6 @@
-num=int(input(""))
-if(num%2==0):
-	ans=num
+rank=int(input(""))
+if(rank%2==0):
+	ans=rank
 else:
-	ans=num-1
+	ans=rank-1
 print("",ans)
